@@ -12,9 +12,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Core", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.IOC", "src\api\MVM.SmartParking.IOC\MVM.SmartParking.IOC.csproj", "{33C48E7E-992D-4B17-8A2E-CF0FE8D7B9BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Business", "src\api\MVM.SmartParking.Business\MVM.SmartParking.Business.csproj", "{CEF32872-2060-4118-998A-6C51E8A593DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Domain", "src\api\MVM.SmartParking.Domain\MVM.SmartParking.Domain.csproj", "{CEF32872-2060-4118-998A-6C51E8A593DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Infrastructure", "src\api\MVM.SmartParking.Infrastructure\MVM.SmartParking.Infrastructure.csproj", "{DE937EF0-62EA-4E56-B064-F26EF7DDF82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Application", "src\api\MVM.SmartParking.Application\MVM.SmartParking.Application.csproj", "{78188D31-7A2B-4C01-AD03-E2FDE6E8F3ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +30,7 @@ Global
 		{33C48E7E-992D-4B17-8A2E-CF0FE8D7B9BF} = {9175DBF2-4E9B-4030-BB7B-6885AC49F3F2}
 		{CEF32872-2060-4118-998A-6C51E8A593DB} = {69E8A262-F093-4203-A822-45B634D2EC6D}
 		{DE937EF0-62EA-4E56-B064-F26EF7DDF82E} = {69E8A262-F093-4203-A822-45B634D2EC6D}
+		{78188D31-7A2B-4C01-AD03-E2FDE6E8F3ED} = {69E8A262-F093-4203-A822-45B634D2EC6D}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{178668AD-C2DF-4442-95ED-DBD01B9F196F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -50,5 +53,9 @@ Global
 		{DE937EF0-62EA-4E56-B064-F26EF7DDF82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE937EF0-62EA-4E56-B064-F26EF7DDF82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE937EF0-62EA-4E56-B064-F26EF7DDF82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78188D31-7A2B-4C01-AD03-E2FDE6E8F3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78188D31-7A2B-4C01-AD03-E2FDE6E8F3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78188D31-7A2B-4C01-AD03-E2FDE6E8F3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78188D31-7A2B-4C01-AD03-E2FDE6E8F3ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "MVM.SmartParking.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MVM.SmartParking.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVM.SmartParking.Application.dll": {}
+        }
       }
     }
   },
@@ -460,10 +470,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "MVM.SmartParking.Application/1.0.0": {
+      "type": "project",
+      "path": "../MVM.SmartParking.Application/MVM.SmartParking.Application.csproj",
+      "msbuildProject": "../MVM.SmartParking.Application/MVM.SmartParking.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "MVM.SmartParking.Application >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.12",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -492,7 +508,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.Application/MVM.SmartParking.Application.csproj": {
+              "projectPath": "/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.Application/MVM.SmartParking.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

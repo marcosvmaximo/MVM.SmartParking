@@ -12,7 +12,11 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
+      <Folder Include="Requests\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MVM.SmartParking.Application\MVM.SmartParking.Application.csproj" />
     </ItemGroup>
 
 </Project>

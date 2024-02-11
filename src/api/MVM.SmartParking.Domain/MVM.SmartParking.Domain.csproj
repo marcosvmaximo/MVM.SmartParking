@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MVM.SmartParking.Core\MVM.SmartParking.Core.csproj" />
+    </ItemGroup>
+
 </Project>

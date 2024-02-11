@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GqQxVq0mMqdl9MXykygXutjI6DydFJT5AGZhqegz+PP+sKTdXINlqD2Nda/P72fQBNIiZSTDiCzVrDZ7csbBGg==",
+  "dgSpecHash": "fzTLx/6B/l4iLybDvXvacA+pjeLxn6AflcN3AL6PYX5q1NEdowSZO5c2A3OIva+nOgZT+bSfhb6ng/CcL3xj2A==",
   "success": true,
   "projectFilePath": "/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.API/MVM.SmartParking.API.csproj",
   "expectedPackageFiles": [
