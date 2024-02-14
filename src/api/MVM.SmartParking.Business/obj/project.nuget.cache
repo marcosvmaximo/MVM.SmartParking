@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MRGOdqQtuou4aJBtwDfYOeDROFG6wDB3ueaSBgCsowxaeiVQo7uv3y1dXp3kert0eGgdgDE2eWggQbPRknJ5Q==",
+  "success": true,
+  "projectFilePath": "/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.Business/MVM.SmartParking.Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcosmaximo/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/marcosmaximo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

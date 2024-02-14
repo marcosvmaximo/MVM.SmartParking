@@ -12,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Core", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.IOC", "src\api\MVM.SmartParking.IOC\MVM.SmartParking.IOC.csproj", "{33C48E7E-992D-4B17-8A2E-CF0FE8D7B9BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Domain", "src\api\MVM.SmartParking.Domain\MVM.SmartParking.Domain.csproj", "{CEF32872-2060-4118-998A-6C51E8A593DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Business", "src\api\MVM.SmartParking.Business\MVM.SmartParking.Business.csproj", "{CEF32872-2060-4118-998A-6C51E8A593DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVM.SmartParking.Infrastructure", "src\api\MVM.SmartParking.Infrastructure\MVM.SmartParking.Infrastructure.csproj", "{DE937EF0-62EA-4E56-B064-F26EF7DDF82E}"
 EndProject

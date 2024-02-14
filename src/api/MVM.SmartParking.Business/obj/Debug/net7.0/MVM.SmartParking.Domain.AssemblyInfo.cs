@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MVM.SmartParking.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MVM.SmartParking.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f25611b98725c9ab09c0651fe40e8ab836d6d2f")]
-[assembly: System.Reflection.AssemblyProductAttribute("MVM.SmartParking.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MVM.SmartParking.API")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dba75c07c215f81f52b1662de882f5110ccdb60")]
+[assembly: System.Reflection.AssemblyProductAttribute("MVM.SmartParking.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MVM.SmartParking.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

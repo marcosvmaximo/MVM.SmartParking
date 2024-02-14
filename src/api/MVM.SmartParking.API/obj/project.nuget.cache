@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "fzTLx/6B/l4iLybDvXvacA+pjeLxn6AflcN3AL6PYX5q1NEdowSZO5c2A3OIva+nOgZT+bSfhb6ng/CcL3xj2A==",
+  "dgSpecHash": "/Jvd7QtrJUhtOWM1u2+t62eb5TwDGpRkEOSvt76rbYiTTE43d2K89L745IwHUsmKJbHsw0BFLZU9EaoBSsK1jw==",
   "success": true,
   "projectFilePath": "/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.API/MVM.SmartParking.API.csproj",
   "expectedPackageFiles": [
+    "/Users/marcosmaximo/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/marcosmaximo/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/marcosmaximo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.12/microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "/Users/marcosmaximo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/marcosmaximo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/marcosmaximo/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/marcosmaximo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/marcosmaximo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
