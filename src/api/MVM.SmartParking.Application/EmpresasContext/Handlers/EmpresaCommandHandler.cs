@@ -74,7 +74,6 @@ public class EmpresaCommandHandler :
 
     public async Task<bool> Handle(AlterarContatoCommand request, CancellationToken cancellationToken)
     {
-        
         var empresa = await _repository.GetById(request.EmpresaId);
 
         if (empresa == null)
