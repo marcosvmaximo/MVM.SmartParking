@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using MVM.SmartParking.Company.API.Data.Interfaces;
 using MVM.SmartParking.Company.API.Dtos;
 using MVM.SmartParking.Company.API.Services;
+using MVM.SmartParking.Company.API.Services.Notifications;
 
 namespace MVM.SmartParking.Company.API.Controllers;
 
@@ -11,11 +12,16 @@ public class CompanyController : ControllerBase
 {
     private readonly ICompanyRepository _repository;
     private readonly ICompanyService _service;
+    private readonly INotify _notify;
 
-    public CompanyController(ICompanyRepository repository, ICompanyService service)
+    public CompanyController(
+        ICompanyRepository repository,
+        ICompanyService service,
+        INotify notify)
     {
         _repository = repository;
         _service = service;
+        _notify = notify;
     }
 
     [HttpGet]
@@ -29,10 +35,32 @@ public class CompanyController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<ActionResult> AddCompany([FromBody] CompanyRequest request)
+    public async Task<ActionResult> AddCompany([FromBody] CompanyDto dto)
     {
-        _service.AddCompany(request);
+        await _service.AddCompany(dto);
         
+        if (!_notify.AnyNotification()) return Ok();
+
+        return BadRequest(_notify.GetNotifications());
+    }
+
+    [HttpPut("{companyId}/adress")]
+    public async Task<ActionResult> UpdateAdressOfCompany([FromRoute]Guid companyId, [FromBody]AdressDto newAdress)
+    {
+        await _service.UpdateAdress(companyId, newAdress);
         
+        if (!_notify.AnyNotification()) return Ok();
+
+        return BadRequest(_notify.GetNotifications());
+    }   
+    
+    [HttpPut("{companyId}/contact")]
+    public async Task<ActionResult> UpdateContactOfCompany([FromRoute]Guid companyId, [FromBody]ContactDto newContact)
+    {
+        await _service.UpdateContact(companyId, newContact);
+        
+        if (!_notify.AnyNotification()) return Ok();
+
+        return BadRequest(_notify.GetNotifications());
     }
 }

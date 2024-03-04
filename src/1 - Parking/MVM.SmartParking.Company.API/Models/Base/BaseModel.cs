@@ -10,6 +10,7 @@ public abstract class BaseModel
         Id = Guid.NewGuid();
     }
     public Guid Id { get; private set; }
+    public bool Status { get; set; }
 
     public virtual ValidationResult Validate<TEntity, TValidation>()
         where TValidation : AbstractValidator<TEntity>, new()
