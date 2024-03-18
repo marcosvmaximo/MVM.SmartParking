@@ -1,5 +1,6 @@
 using MediatR;
 using MVM.SmartParking.Core.Application;
+using MVM.SmartParking.Parking.Application.Commands.Views;
 using MVM.SmartParking.Parking.Domain.Entities;
 using MVM.SmartParking.Parking.Domain.Interfaces;
 
@@ -21,6 +22,6 @@ public class RegisterVehicleCommandHandler : IRequestHandler<RegisterVehicleComm
         var color = await _repository.GetColorById(message.ColorId);
         
         Vehicle vehicle = new(message.Plate, message.Type, brand, model, color);
-        
+        return new RegisterVehicleView();
     }
 }

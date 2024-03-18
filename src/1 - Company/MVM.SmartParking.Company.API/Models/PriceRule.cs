@@ -15,4 +15,6 @@ public class PriceRule : BaseModel
 
     public TimeSpan Time { get; set; }
     public decimal PriceForTime { get; set; }
+    public Guid CompanyId { get; set; }
+    public Company Company { get; set; }
 }
