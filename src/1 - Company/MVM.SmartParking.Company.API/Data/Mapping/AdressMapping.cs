@@ -28,6 +28,10 @@ public class AdressMapping : IEntityTypeConfiguration<Adress>
             .HasColumnName("numero")
             .HasColumnType("int");
         
+        builder.Property(x => x.Complement)
+            .HasColumnName("complemento")
+            .HasColumnType("varchar(255)");
+        
         builder.Property(x => x.Neighborhood)
             .HasColumnName("bairro")
             .HasColumnType("varchar(255)");

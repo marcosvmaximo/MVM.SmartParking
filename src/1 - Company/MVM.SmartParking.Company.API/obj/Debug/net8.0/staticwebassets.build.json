@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bN5mzMMHJwpcQHhSjmsIcPUqCpmaHkhXsBQR4PC6NLc=",
+  "Source": "MVM.SmartParking.Company.API",
+  "BasePath": "_content/MVM.SmartParking.Company.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

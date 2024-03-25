@@ -18,7 +18,7 @@ public class PriceRuleMapping : IEntityTypeConfiguration<PriceRule>
         
         builder.Property(x => x.Time)
             .HasColumnName("tempo")
-            .HasColumnType("timestamp");
+            .HasColumnType("time");
         
         builder.Property(x => x.PriceForTime)
             .HasColumnName("preco_por_tempo")
