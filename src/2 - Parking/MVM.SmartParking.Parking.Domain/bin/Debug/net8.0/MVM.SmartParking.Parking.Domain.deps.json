@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MVM.SmartParking.Parking.Domain/1.0.0": {
+        "dependencies": {
+          "MVM.SmartParking.Core": "1.0.0"
+        },
+        "runtime": {
+          "MVM.SmartParking.Parking.Domain.dll": {}
+        }
+      },
+      "MVM.SmartParking.Core/1.0.0": {
+        "runtime": {
+          "MVM.SmartParking.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVM.SmartParking.Parking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVM.SmartParking.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

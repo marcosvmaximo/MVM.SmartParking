@@ -1,0 +1,6 @@
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/obj/Debug/net8.0/MVM.SmartParking.Parking.Application.csproj.AssemblyReference.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/obj/Debug/net8.0/MVM.SmartParking.Parking.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/obj/Debug/net8.0/MVM.SmartParking.Parking.Application.AssemblyInfoInputs.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/obj/Debug/net8.0/MVM.SmartParking.Parking.Application.AssemblyInfo.cs
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/obj/Debug/net8.0/MVM.SmartParking.Parking.Application.csproj.CoreCompileInputs.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/obj/Debug/net8.0/MVM.SmartParking.Parking.Application.sourcelink.json

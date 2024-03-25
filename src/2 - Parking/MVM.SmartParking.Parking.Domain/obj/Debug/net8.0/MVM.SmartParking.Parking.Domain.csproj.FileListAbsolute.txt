@@ -1,0 +1,16 @@
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/bin/Debug/net8.0/MVM.SmartParking.Parking.Domain.deps.json
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/bin/Debug/net8.0/MVM.SmartParking.Parking.Domain.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/bin/Debug/net8.0/MVM.SmartParking.Parking.Domain.pdb
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/bin/Debug/net8.0/MVM.SmartParking.Core.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/bin/Debug/net8.0/MVM.SmartParking.Core.pdb
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.csproj.AssemblyReference.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.AssemblyInfoInputs.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.AssemblyInfo.cs
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.csproj.CoreCompileInputs.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.sourcelink.json
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.csproj.CopyComplete
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/refint/MVM.SmartParking.Parking.Domain.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/MVM.SmartParking.Parking.Domain.pdb
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Domain/obj/Debug/net8.0/ref/MVM.SmartParking.Parking.Domain.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLMxhRt1tmaZE6oMa9Rn+e4+5MNQGenPU2htkgreDoW00e3bGOGimqWC6yLYpVMY/o7EvOsQib86/5so4zPxjQ==",
+  "success": true,
+  "projectFilePath": "/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/2 - Parking/MVM.SmartParking.Parking.Application/MVM.SmartParking.Parking.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcosmaximo/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/marcosmaximo/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/marcosmaximo/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/marcosmaximo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

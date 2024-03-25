@@ -1,0 +1,12 @@
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/bin/Debug/net7.0/MVM.SmartParking.IOC.deps.json
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/bin/Debug/net7.0/MVM.SmartParking.IOC.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/bin/Debug/net7.0/MVM.SmartParking.IOC.pdb
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.AssemblyInfoInputs.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.AssemblyInfo.cs
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.csproj.CoreCompileInputs.cache
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.sourcelink.json
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/refint/MVM.SmartParking.IOC.dll
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/MVM.SmartParking.IOC.pdb
+/Users/marcosmaximo/RiderProjects/MVM.SmartParking/src/api/MVM.SmartParking.IOC/obj/Debug/net7.0/ref/MVM.SmartParking.IOC.dll
