@@ -2,6 +2,7 @@
 
 # Rider
 .idea/
+.DS_Store
 
 # User-specific files
 *.suo
